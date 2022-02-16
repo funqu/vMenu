@@ -22878,5 +22878,13 @@
     "zoneId": 0,
     "zoneName": "ZONE_TORSO",
     "type": "TYPE_BADGE"
-  }
+  },
+  {
+  "gender": 0,
+  "name": "ms-13_m",
+  "collectionName": "multiplayer_overlays",
+  "zoneId": 0,
+  "zoneName": "ZONE_TORSO",
+  "type": "TYPE_TATTOO"
+}
 ]
